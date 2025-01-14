@@ -1,5 +1,5 @@
-1. Iniciar no terminal App.py
-2. Iniciar npm start no terminal do Front-end
+1. Iniciar no terminal App.py (python app.py)
+2. Iniciar (npm start) no terminal do Front-end
 3. Preencher os dados para calcular e gerar o gráfico
 
 OBS: Talvez seja necessário rodar o comando npm install no front-end para instalar as dependências
